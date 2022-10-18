@@ -1,0 +1,39 @@
+{
+  "id" : 1177218,
+  "type" : 5,
+  "src" : "$media$1177218.mp4",
+  "icon" : "$media$1177218/cover.jpg",
+  "label" : "6 razones por las que te conviene estudiar un MBA.mp4",
+  "descriptions" : { },
+  "titles" : { },
+  "creationDate" : "2020-05-06 17:08:24",
+  "lastUpdateDate" : "2020-05-06 17:08:36",
+  "beginDate" : "2020-05-06 17:08:24",
+  "version" : 1,
+  "name" : "6-razones-por-las-que-te-conviene-estudiar-un-mba.mp4",
+  "parent" : 1176464,
+  "originalFile" : "1177218.mp4",
+  "originalFileSize" : 5638057,
+  "countryFlags" : [ ],
+  "associatedResolutions" : {
+    "1177218" : "p_1177218"
+  },
+  "resolutions" : {
+    "p_1177218" : {
+      "supported" : [ "jpg" ],
+      "sizes" : [ {
+        "width" : 720,
+        "height" : 720,
+        "box" : false,
+        "extension" : "jpg",
+        "ignoreUpscale" : true
+      } ]
+    }
+  },
+  "tags" : [ ],
+  "published" : true,
+  "bitrate" : 1488188,
+  "duration" : 30.059,
+  "resolution" : "720x720",
+  "status" : "LIVE"
+}

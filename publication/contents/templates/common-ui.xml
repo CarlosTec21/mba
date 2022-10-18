@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <menu_config>
+    <mode name="default">
+      <menu name="menu-left">
+        <element name="menu"/>
+      </menu>
+      <menu name="menu-center">
+        <element name="logo">
+          <file url="${media}1176467.png" href="https://egade.tec.mx/"/>
+        </element>
+      </menu>
+      <menu name="menu-burger">
+        <element name="documentback"/>
+        <element name="share_btn"/>
+        <element name="thumbnails_btn"/>
+        <element name="pdf_btn"/>
+        <element name="fullscreen_btn"/>
+        <element name="search_btn"/>
+      </menu>
+      <menu name="menu-right"/>
+    </mode>
+    <mode name="desktop">
+      <panel_view_control enable="true">
+        <element enable="true" name="page_range"/>
+        <element enable="true" name="zoom_less"/>
+        <element enable="true" name="zoom_range"/>
+        <element enable="true" name="zoom_more"/>
+        <element enable="true" name="fullscreen_toggle"/>
+        <element enable="true" name="zoom_reset"/>
+      </panel_view_control>
+      <menu name="menu-burger">
+        <element name="summary_btn"/>
+        <element name="thumbnails_btn"/>
+        <element name="search_btn"/>
+        <element name="zoom_btn"/>
+        <element name="share_btn"/>
+        <element name="fullscreen_btn"/>
+      </menu>
+      <menu name="menu-center"/>
+      <menu name="menu-left">
+        <element name="logo">
+          <file url="${media}1176467.png" href="https://egade.tec.mx/"/>
+        </element>
+      </menu>
+      <menu name="menu-right">
+        <element name="custom" style="height: 100%" label="Solicitar información">
+          <a href="https://egade.csf.itesm.mx/digital/EGADEMBA_MEX.html?utm_source=brochure&amp;amp;utm_medium=digital&amp;amp;utm_campaign=admissions_may20" style="display: inline-block;height:100%" target="_blank">
+            <img src="${media}1177212.png" height="100%"/>
+          </a>
+        </element>
+        <element name="summary_btn"/>
+        <element name="thumbnails_btn"/>
+        <element name="share_btn"/>
+        <element name="custom" style="height: 100%" label="Descarga">
+          <a href="#" onclick="document.dispatchEvent(new CustomEvent('WebPublicationAction', {'detail':{'type':'popup','params':{'param':'https://egade.csf.itesm.mx/brochure/mba/egade-mba.pdf'}}}));return false;" style="display: inline-block;height:100%">
+            <img src="${media}1176474.svg" height="100%"/>
+          </a>
+        </element>
+        <element name="menu"/>
+      </menu>
+    </mode>
+    <mode name="tablet">
+      <menu name="menu-burger">
+        <element name="summary_btn"/>
+        <element name="thumbnails_btn"/>
+        <element name="search_btn"/>
+        <element name="share_btn"/>
+        <element name="fullscreen_btn"/>
+      </menu>
+      <menu name="menu-center">
+        <element name="logo">
+          <file url="${media}1176467.png" href="https://egade.tec.mx/"/>
+        </element>
+      </menu>
+      <menu name="menu-left">
+        <element name="menu"/>
+        <element name="fullscreen_btn"/>
+        <element name="custom" style="height: 100%" label="Descarga">
+          <a href="#" onclick="document.dispatchEvent(new CustomEvent('WebPublicationAction', {'detail':{'type':'popup','params':{'param':'https://egade.csf.itesm.mx/brochure/mba/egade-mba.pdf'}}}));return false;" style="display: inline-block;height:100%">
+            <img src="${media}1176474.svg" height="100%"/>
+          </a>
+        </element>
+        <element name="summary_btn"/>
+      </menu>
+      <menu name="menu-right">
+        <element name="custom" style="height: 100%" label="Solicitar información">
+          <a href="https://egade.csf.itesm.mx/digital/EGADEMBA_MEX.html?utm_source=brochure&amp;amp;utm_medium=digital&amp;amp;utm_campaign=admissions_may20" style="display: inline-block;height:100%" target="_blank">
+            <img src="${media}1177212.png" height="100%"/>
+          </a>
+        </element>
+      </menu>
+    </mode>
+    <mode name="mobile">
+      <menu name="menu-burger">
+        <element name="summary_btn"/>
+        <element name="thumbnails_btn"/>
+        <element name="search_btn"/>
+        <element name="share_btn"/>
+        <element name="fullscreen_btn"/>
+        <element name="custom" style="height: 100%" label="Solicitar información">
+          <a href="https://egade.csf.itesm.mx/digital/EGADEMBA_MEX.html?utm_source=brochure&amp;amp;utm_medium=digital&amp;amp;utm_campaign=admissions_may20" style="display: inline-block;height:100%" target="_blank">
+            <img src="${media}1177212.png" height="100%"/>
+          </a>
+        </element>
+      </menu>
+      <menu name="menu-center">
+        <element name="logo">
+          <file url="${media}1176467.png" href="https://egade.tec.mx/"/>
+        </element>
+      </menu>
+      <menu name="menu-left">
+        <element name="menu"/>
+        <element name="custom" style="height: 100%" label="Descarga">
+          <a href="#" onclick="document.dispatchEvent(new CustomEvent('WebPublicationAction', {'detail':{'type':'popup','params':{'param':'https://egade.csf.itesm.mx/brochure/mba/egade-mba.pdf'}}}));return false;" style="display: inline-block;height:100%">
+            <img src="${media}1176474.svg" height="100%"/>
+          </a>
+        </element>
+      </menu>
+      <menu name="menu-right">
+        <element name="summary_btn"/>
+        <element name="fullscreen_btn"/>
+      </menu>
+    </mode>
+  </menu_config>
+  <modules>
+    <mode name="default">
+      <module asynchronous="true" enable="true" parameters="{&quot;url&quot;:&quot;http://www.webpublication.com.ar&quot;,&quot;text&quot;:&quot;Webpublication LatAm&quot;,&quot;style&quot;:{&quot;left&quot;:&quot;auto&quot;,&quot;right&quot;:&quot;10px&quot;,&quot;top&quot;:&quot;auto&quot;,&quot;bottom&quot;:&quot;10px&quot;,&quot;fontSize&quot;:&quot;9px&quot;,&quot;color&quot;:&quot;rgba(0,0,0,1)&quot;}}" path="./publication/mobile/modules/customBrand" userAgentFilter="desktop" name="CustomBrand" version="1.0.0"><![CDATA[<a href="{{url}}" target="_blank">{{text}}</a>]]></module>
+      <module asynchronous="true" enable="true" parameters="{}" path="./publication/mobile/modules/adminApi" userAgentFilter="backofficeMode" name="adminApi" version="1.0.0">
+      </module>
+      <module asynchronous="true" enable="true" parameters="{           matchHash: 'welcome',           param: 'http://webpublication.fr/',           id: 'webpublication.fr',           theme: 'theater',           animation: 'none',           header: 'none'         }" path="./publication/mobile/modules/routerLightbox" userAgentFilter="tab|mobile|desktop|phablet" name="lightbox-welcome" version="1.0.0">
+      </module>
+    </mode>
+  </modules>
+  <template>
+    <asset url="${template}config.xml" name="config"/>
+    <asset url="${template}ui.xml" name="interface"/>
+    <asset url="${template}styles.css" name="css"/>
+    <asset url="${template}styles_flash.css" name="css_html5"/>
+    <asset url="${locale_folder}messages_${locale}.xml" name="locale"/>
+    <asset url="${epub_folder}css/css.css" name="epub-idGeneratedStyles"/>
+    <asset url="${epub_folder}script/customJavascript.js" name="custom_javascript"/>
+  </template>
+  <services>
+    <service id="pdfmerge" url="${manager_host}/services/rest/playerGateway/pdfmerge"/>
+    <service id="sendmail" url="${manager_host}/services/rest/playerGateway/sendmail"/>
+  </services>
+  <configs>
+    <viewer>
+      <mode name="desktop">
+        <zoom clicks="2" max_scale="2"/>
+        <page swipe="true" transition_time="0.2" max_width="auto" margin="0 0 0 0" max_height="auto"/>
+      </mode>
+      <mode name="default">
+        <popup filters="*" default_mode="fullscreen"/>
+      </mode>
+    </viewer>
+    <!-- <page_layout value="" /> -->
+    <page_layout_html value="best"/>
+    <deep_linking value="true"/>
+    <cookie enabled="false"/>
+    <page_layout first_frame="2" value="best"/>
+    <chapters>
+      <element underline_color="#CF2A2C" page="3" type="tab" size="12" color="#12385A" underline_size="30" label="PESTAÑA 1"/>
+      <element size="30" type="space"/>
+      <element underline_color="#CF2A2C" page="7" type="tab" size="12" color="#12385A" underline_size="30" label="PESTAÑA 2"/>
+      <element size="30" type="space"/>
+      <element underline_color="#CF2A2C" page="9" type="tab" size="12" color="#12385A" underline_size="30" label="PESTAÑA 3"/>
+      <element size="30" type="space"/>
+      <element underline_color="#cf2a2c" page="15" type="tab" size="12" color="#12385A" underline_size="30" label="PESTAÑA 4"/>
+      <element size="30" type="space"/>
+      <element underline_color="#CF2A2C" page="17" type="tab" size="12" color="#12385A" underline_size="30" label="PESTAÑA 5"/>
+      <element size="30" type="space"/>
+      <element underline_color="#CF2A2C" page="19" type="tab" size="12" color="#12385A" underline_size="30" label="PESTAÑA 6"/>
+      <element size="30" type="space"/>
+      <element underline_color="#CF2A2C" page="23" type="tab" size="12" color="#12385A" underline_size="30" label="PESTAÑA 7"/>
+    </chapters>
+    <seo value="true"/>
+  </configs>
+</root>

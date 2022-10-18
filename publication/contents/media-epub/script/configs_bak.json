@@ -1,0 +1,149 @@
+{
+  "generalData" : {
+    "bgStyle" : { },
+    "editablePublication" : { },
+    "activePageOffset" : 14
+  },
+  "pagesData" : [ {
+    "bgStyle" : {
+      "epubStyle" : {
+        "backgroundColor" : "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "isTransparent" : false,
+    "showAlone" : false,
+    "height" : 595.275590551
+  }, {
+    "bgStyle" : { },
+    "isTransparent" : false,
+    "showAlone" : false,
+    "height" : 595.275590551
+  }, {
+    "bgStyle" : {
+      "epubStyle" : {
+        "backgroundColor" : "rgba(18, 56, 90, 1.0)"
+      }
+    },
+    "isTransparent" : true,
+    "showAlone" : false,
+    "height" : 595.275590551
+  }, {
+    "bgStyle" : {
+      "epubStyle" : {
+        "backgroundColor" : "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "isTransparent" : true,
+    "showAlone" : false,
+    "height" : 595.275590551
+  }, {
+    "bgStyle" : {
+      "epubStyle" : {
+        "backgroundColor" : "rgba(93, 184, 196, 1.0)"
+      }
+    },
+    "isTransparent" : true,
+    "showAlone" : false,
+    "height" : 595.275590551
+  }, {
+    "bgStyle" : {
+      "epubStyle" : {
+        "backgroundColor" : "rgba(93, 184, 196, 1.0)"
+      }
+    },
+    "isTransparent" : true,
+    "showAlone" : false,
+    "height" : 595.275590551
+  }, {
+    "bgStyle" : {
+      "epubStyle" : {
+        "backgroundColor" : "rgba(239, 241, 243, 1.0)"
+      }
+    },
+    "isTransparent" : false,
+    "showAlone" : false,
+    "height" : 595.275590551
+  }, {
+    "bgStyle" : {
+      "epubStyle" : {
+        "backgroundColor" : "rgba(239, 241, 243, 1.0)"
+      }
+    },
+    "isTransparent" : false,
+    "showAlone" : false,
+    "height" : 595.275590551
+  }, {
+    "bgStyle" : {
+      "epubStyle" : {
+        "backgroundColor" : "rgba(18, 56, 90, 1.0)"
+      }
+    },
+    "isTransparent" : true,
+    "showAlone" : false,
+    "height" : 595.275590551
+  }, {
+    "bgStyle" : {
+      "epubStyle" : {
+        "backgroundColor" : "rgba(182, 52, 52, 1.0)"
+      }
+    },
+    "isTransparent" : true,
+    "showAlone" : false,
+    "height" : 595.275590551
+  }, {
+    "bgStyle" : {
+      "epubStyle" : {
+        "backgroundColor" : "rgba(207, 42, 44, 1.0)"
+      }
+    },
+    "isTransparent" : true,
+    "showAlone" : false,
+    "height" : 595.275590551
+  }, {
+    "bgStyle" : {
+      "epubStyle" : {
+        "backgroundColor" : "rgba(93, 184, 196, 1.0)"
+      }
+    },
+    "isTransparent" : true,
+    "showAlone" : false,
+    "height" : 595.275590551
+  }, {
+    "bgStyle" : {
+      "epubStyle" : {
+        "backgroundColor" : "rgba(255, 255, 255, 1.0)"
+      }
+    },
+    "isTransparent" : true,
+    "showAlone" : false,
+    "height" : 595.275590551
+  }, {
+    "bgStyle" : {
+      "epubStyle" : {
+        "backgroundColor" : "rgba(239, 241, 243, 1.0)"
+      }
+    },
+    "isTransparent" : true,
+    "showAlone" : false,
+    "height" : 595.275590551
+  }, {
+    "bgStyle" : {
+      "epubStyle" : {
+        "backgroundColor" : "rgba(93, 184, 196, 1.0)"
+      }
+    },
+    "isTransparent" : true,
+    "showAlone" : false,
+    "height" : 595.275590551
+  }, {
+    "bgStyle" : {
+      "epubStyle" : {
+        "backgroundColor" : "rgba(207, 42, 44, 1.0)"
+      }
+    },
+    "isTransparent" : true,
+    "showAlone" : false,
+    "height" : 595.275590551
+  } ],
+  "pluginVersion" : "3.49.3"
+}

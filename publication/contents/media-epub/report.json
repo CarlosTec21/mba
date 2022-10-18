@@ -1,0 +1,110 @@
+{
+  "OPTIMIZED" : [ {
+    "page" : null,
+    "file" : "11.jpg",
+    "sizeInBytes" : 58997,
+    "size" : "58 KB",
+    "message" : "PNG -> JPG<br />3490x3100 -> 2048x1819<br />48 KB -> 58 KB",
+    "relUrl" : "image/11.jpg"
+  }, {
+    "page" : null,
+    "file" : "81.png",
+    "sizeInBytes" : 533,
+    "size" : "533 bytes",
+    "message" : "PNG -> PNG<br />6998x3081 -> 2048x902<br />89 KB -> 533 bytes",
+    "relUrl" : "image/81.png"
+  }, {
+    "page" : null,
+    "file" : "270.jpg",
+    "sizeInBytes" : 58997,
+    "size" : "58 KB",
+    "message" : "PNG -> JPG<br />3497x3100 -> 2048x1815<br />48 KB -> 58 KB",
+    "relUrl" : "image/270.jpg"
+  }, {
+    "page" : null,
+    "file" : "713.jpg",
+    "sizeInBytes" : 58485,
+    "size" : "57 KB",
+    "message" : "PNG -> JPG<br />3508x3081 -> 2048x1799<br />48 KB -> 57 KB",
+    "relUrl" : "image/713.jpg"
+  }, {
+    "page" : null,
+    "file" : "501.png",
+    "sizeInBytes" : 533,
+    "size" : "533 bytes",
+    "message" : "PNG -> PNG<br />6998x3081 -> 2048x902<br />89 KB -> 533 bytes",
+    "relUrl" : "image/501.png"
+  }, {
+    "page" : null,
+    "file" : "382.jpg",
+    "sizeInBytes" : 60950,
+    "size" : "60 KB",
+    "message" : "PNG -> JPG<br />3508x3083 -> 2048x1800<br />48 KB -> 60 KB",
+    "relUrl" : "image/382.jpg"
+  }, {
+    "page" : null,
+    "file" : "492.jpg",
+    "sizeInBytes" : 60069,
+    "size" : "59 KB",
+    "message" : "PNG -> JPG<br />3508x3083 -> 2048x1800<br />48 KB -> 59 KB",
+    "relUrl" : "image/492.jpg"
+  }, {
+    "page" : null,
+    "file" : "378.jpg",
+    "sizeInBytes" : 58997,
+    "size" : "58 KB",
+    "message" : "PNG -> JPG<br />3497x3100 -> 2048x1815<br />48 KB -> 58 KB",
+    "relUrl" : "image/378.jpg"
+  }, {
+    "page" : null,
+    "file" : "502.png",
+    "sizeInBytes" : 1986,
+    "size" : "2 KB",
+    "message" : "PNG -> PNG<br />6998x3081 -> 2048x902<br />89 KB -> 2 KB",
+    "relUrl" : "image/502.png"
+  }, {
+    "page" : null,
+    "file" : "50.png",
+    "sizeInBytes" : 535,
+    "size" : "535 bytes",
+    "message" : "PNG -> PNG<br />6994x3100 -> 2048x908<br />90 KB -> 535 bytes",
+    "relUrl" : "image/50.png"
+  }, {
+    "page" : null,
+    "file" : "666.jpg",
+    "sizeInBytes" : 58485,
+    "size" : "57 KB",
+    "message" : "PNG -> JPG<br />3508x3081 -> 2048x1799<br />48 KB -> 57 KB",
+    "relUrl" : "image/666.jpg"
+  }, {
+    "page" : null,
+    "file" : "19.jpg",
+    "sizeInBytes" : 58995,
+    "size" : "58 KB",
+    "message" : "PNG -> JPG<br />3490x3100 -> 2048x1819<br />48 KB -> 58 KB",
+    "relUrl" : "image/19.jpg"
+  }, {
+    "page" : null,
+    "file" : "0_EGADE_EGRESADOS_3539.png",
+    "sizeInBytes" : 675778,
+    "size" : "660 KB",
+    "message" : "PNG -> PNG<br />1655x1059 -> null<br />2.33 MB -> 660 KB",
+    "relUrl" : "image/0_EGADE_EGRESADOS_3539.png"
+  }, {
+    "page" : null,
+    "file" : "0_Montana-2.png",
+    "sizeInBytes" : 60147,
+    "size" : "59 KB",
+    "message" : "PNG -> PNG<br />5043x2344 -> 2048x952<br />164 KB -> 59 KB",
+    "relUrl" : "image/0_Montana-2.png"
+  } ],
+  "FILE_SIZE" : [ {
+    "page" : null,
+    "file" : "0_EGADE_EGRESADOS_3539.png",
+    "sizeInBytes" : 675778,
+    "size" : "660 KB",
+    "message" : null,
+    "relUrl" : "image/0_EGADE_EGRESADOS_3539.png"
+  } ],
+  "status" : "LIVE"
+}

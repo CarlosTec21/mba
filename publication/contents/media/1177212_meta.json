@@ -1,0 +1,54 @@
+{
+  "id" : 1177212,
+  "type" : 4,
+  "src" : "$media$1177212.png",
+  "icon" : "$media$1177212.png",
+  "label" : "mba_bt-solicita-informacion.png",
+  "descriptions" : { },
+  "titles" : { },
+  "creationDate" : "2020-05-06 06:26:45",
+  "lastUpdateDate" : "2020-05-06 06:26:45",
+  "beginDate" : "2020-05-06 06:26:45",
+  "version" : 0,
+  "name" : "mba_bt-solicita-informacion.png",
+  "parent" : 1176464,
+  "originalFile" : "1177212.png",
+  "originalFileSize" : 17133,
+  "countryFlags" : [ ],
+  "associatedResolutions" : {
+    "1177212" : "default"
+  },
+  "resolutions" : {
+    "default" : {
+      "supported" : [ "jpg", "tif", "gif", "png", "jpeg" ],
+      "sizes" : [ {
+        "width" : 1920,
+        "height" : 1440,
+        "box" : true,
+        "extension" : "jpg",
+        "ignoreUpscale" : true
+      }, {
+        "width" : 360,
+        "height" : 0,
+        "box" : true,
+        "extension" : "jpg",
+        "ignoreUpscale" : true
+      }, {
+        "width" : 960,
+        "height" : 720,
+        "box" : true,
+        "extension" : "jpg",
+        "ignoreUpscale" : true
+      }, {
+        "width" : 720,
+        "height" : 0,
+        "box" : true,
+        "extension" : "jpg",
+        "ignoreUpscale" : true
+      } ]
+    }
+  },
+  "tags" : [ ],
+  "published" : true,
+  "resolution" : "195x50"
+}

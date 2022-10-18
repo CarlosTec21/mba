@@ -1,0 +1,54 @@
+{
+  "id" : 1177216,
+  "type" : 4,
+  "src" : "$media$1177216.jpg",
+  "icon" : "$media$1177216.jpg",
+  "label" : "share_mba.jpg",
+  "descriptions" : { },
+  "titles" : { },
+  "creationDate" : "2020-05-06 15:48:42",
+  "lastUpdateDate" : "2020-05-06 15:48:42",
+  "beginDate" : "2020-05-06 15:48:42",
+  "version" : 1,
+  "name" : "share_mba.jpg",
+  "parent" : 1173444,
+  "originalFile" : "1177216.jpg",
+  "originalFileSize" : 644121,
+  "countryFlags" : [ ],
+  "associatedResolutions" : {
+    "1177216" : "default"
+  },
+  "resolutions" : {
+    "default" : {
+      "supported" : [ "jpg", "tif", "gif", "png", "jpeg" ],
+      "sizes" : [ {
+        "width" : 1920,
+        "height" : 1440,
+        "box" : true,
+        "extension" : "jpg",
+        "ignoreUpscale" : true
+      }, {
+        "width" : 360,
+        "height" : 0,
+        "box" : true,
+        "extension" : "jpg",
+        "ignoreUpscale" : true
+      }, {
+        "width" : 960,
+        "height" : 720,
+        "box" : true,
+        "extension" : "jpg",
+        "ignoreUpscale" : true
+      }, {
+        "width" : 720,
+        "height" : 0,
+        "box" : true,
+        "extension" : "jpg",
+        "ignoreUpscale" : true
+      } ]
+    }
+  },
+  "tags" : [ ],
+  "published" : true,
+  "resolution" : "1200x630"
+}

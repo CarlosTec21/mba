@@ -1,0 +1,51 @@
+<div class="webpub-share__container webpub-share__social-step {{if thumbnailUrlRight}}twoThumbnails{{/if}}">
+  <div class="webpub-share__header">
+    <div class="webpub-share__step-title">{{sharePanelTitle}}</div>
+    <div class="webpub-share__close-container">
+      <div class="webpub-share__back">{{localePlugin("back")}}</div>
+      <div class="webpub-share__close">{{localePlugin("close")}}</div>
+    </div>
+  </div>
+  <div class="webpub-share__content">
+    <div class="webpub-share__thumbnail-container">
+      <img class="webpub-share__thumbnail{{if thumbnailUrlRight}} webpub-share__thumbnail-left{{/if}}" src="{{thumbnailUrlLeft}}">
+      {{if thumbnailUrlRight}}
+        <img class="webpub-share__thumbnail webpub-share__thumbnail-right" src="{{thumbnailUrlRight}}">
+      {{/if}}
+    </div>
+
+    <div class="webpub-share__choice">
+      <div class="webpub-share__choice-title">{{localePlugin("select_share_option")}}</div>
+      {{if sendMethods}}
+        <ul class="webpub-share__social-socials">
+          {{each(i,sendMethod) sendMethods}}
+          {{if sendMethod}}
+            <li class="webpub-share__social-button webpub-share__social-button-{{i}}">
+                <div class="webpub-share__social-icon">
+                  {{iconPlugin(i + '_share-v4','')}}
+                  {{iconPlugin(i + '_share-active-v4','active')}}
+                </div>
+              <div class="webpub-share__social-icon-name">{{localePlugin("menu_"+ i)}}</div>
+            </li>
+          {{/if}}
+        {{/each}}
+        </ul>
+      {{/if}}
+      {{if socials}}
+        <ul class="webpub-share__social-socials">
+          {{each(i,social) socials}}
+            {{if social}}
+              <li class="webpub-share__social-button webpub-share__social-button-{{i}}">
+                <div class="webpub-share__social-icon">
+                  {{iconPlugin(i + '_share-v4','')}}
+                  {{iconPlugin(i + '_share-active-v4','active')}}
+                </div>
+                <div class="webpub-share__social-icon-name">{{localePlugin(i)}}</div>
+              </li>
+            {{/if}}
+          {{/each}}
+        </ul>
+      {{/if}}
+    </div>
+  </div>
+</div>

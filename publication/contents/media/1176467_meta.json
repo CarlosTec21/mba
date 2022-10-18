@@ -1,0 +1,54 @@
+{
+  "id" : 1176467,
+  "type" : 4,
+  "src" : "$media$1176467.png",
+  "icon" : "$media$1176467.png",
+  "label" : "logo-egade-azul-copy(1).png",
+  "descriptions" : { },
+  "titles" : { },
+  "creationDate" : "2020-05-04 00:26:13",
+  "lastUpdateDate" : "2020-05-04 00:26:13",
+  "beginDate" : "2020-05-04 00:26:13",
+  "version" : 1,
+  "name" : "logo-egade-azul-copy(1).png",
+  "parent" : 1176464,
+  "originalFile" : "1176467.png",
+  "originalFileSize" : 66206,
+  "countryFlags" : [ ],
+  "associatedResolutions" : {
+    "1176467" : "default"
+  },
+  "resolutions" : {
+    "default" : {
+      "supported" : [ "jpg", "tif", "gif", "png", "jpeg" ],
+      "sizes" : [ {
+        "width" : 1920,
+        "height" : 1440,
+        "box" : true,
+        "extension" : "jpg",
+        "ignoreUpscale" : true
+      }, {
+        "width" : 360,
+        "height" : 0,
+        "box" : true,
+        "extension" : "jpg",
+        "ignoreUpscale" : true
+      }, {
+        "width" : 960,
+        "height" : 720,
+        "box" : true,
+        "extension" : "jpg",
+        "ignoreUpscale" : true
+      }, {
+        "width" : 720,
+        "height" : 0,
+        "box" : true,
+        "extension" : "jpg",
+        "ignoreUpscale" : true
+      } ]
+    }
+  },
+  "tags" : [ ],
+  "published" : true,
+  "resolution" : "671x173"
+}

@@ -1,0 +1,120 @@
+.primary {
+   backgroundColor: #ffffff;
+   backgroundAlpha: 1;
+   spacerColor: #cecece;
+   spacerAlpha: 1;
+   topnavColor: #ffffff;
+   topnavAlpha: 0;
+   topnavShadowColor: #000000;
+   topnavShadowAlpha: 0;
+   topnavIconColor: #12385a;
+   topnavIconAlpha: 1;
+   contentColor: #12385a;
+   contentAlpha: 1;
+   strongColor: #12385a;
+   strongAlpha: 1;
+   tooltipTextColor: #12385a;
+   tooltipTextAlpha: 1;
+   tooltipBackgroundColor: primary.spacerColor;
+   tooltipBackgroundAlpha: 1;
+   tooltipShadowColor: #000000;
+   tooltipShadowAlpha: 0;
+   actionColor: #12385a;
+   actionAlpha: 1;
+   action2Color: #272727;
+   action2Alpha: 1;
+   cardColor: #ffffff;
+   cardAlpha: 1;
+   altPopupBackgroundColor: #ffffff;
+   altPopupBackgroundAlpha: 1;
+   contentActionColor: #7c7c7c;
+   contentActionAlpha: 1;
+   lateralArrowsOpacity: 1;
+   lateralArrowsColor: #12385a;
+   lateralArrowsAlpha: primary.actionAlpha;
+   lateralArrowsBackgroundColor: #ffffff;
+   lateralArrowsBackgroundAlpha: 0.2;
+   lateralArrowsBackgroundShadowColor: #000000;
+   lateralArrowsBackgroundShadowAlpha: 0;
+   topnavFilters: menudropshadow;
+}
+.secondary {
+   notificationColor: #31c531;
+   notificationAlpha: 1;
+   alertColor: #f14d4d;
+   alertAlpha: 1;
+   altContentColor: #8c8c8c;
+   altContentAlpha: 1;
+   activeColor: #e7b845;
+   activeAlpha: 1;
+   altPopupColor: #ffffff;
+   altPopupAlpha: 1;
+   linkColor: #ff0000;
+   linkBackgroundColor: #0000ff;
+   linkAlpha: 0.15;
+}
+.pushmenu {
+   backgroundColor: #333333;
+   backgroundAlpha: 1;
+   strongBackgroundColor: #222222;
+   strongBackgroundAlpha: 1;
+   spacerColor: #434343;
+   spacerAlpha: 1;
+   activeColor: #272727;
+   activeAlpha: 1;
+   contentColor: #a4a4a4;
+   contentAlpha: 1;
+   strongColor: #696969;
+   strongAlpha: 1;
+   iconColor: #ffffff;
+   iconAlpha: 1;
+}
+.ontouch {
+   backgroundColor: primary.backgroundColor;
+   backgroundAlpha: primary.backgroundAlpha;
+   cardColor: primary.cardColor;
+   cardAlpha: primary.cardAlpha;
+   contentColor: primary.contentColor;
+   contentAlpha: primary.contentAlpha;
+   alertColor: secondary.alertColor;
+   alertAlpha: secondary.alertAlpha;
+   backgroundColor: pushmenu.backgroundColor;
+   backgroundAlpha: pushmenu.backgroundColor;
+}
+.spread {
+   backgroundAlpha: 0;
+   backgroundColor: #ffffff;
+   backgroundShadowColor: #000000;
+   backgroundShadowAlpha: 0;
+}
+.loader {
+   backgroundCircleColor: #ffffff;
+   foregroundCircleColor: #000000;
+   contentColor: #555555;
+}
+.lightbox {
+   backgroundColor: primary.backgroundColor;
+   backgroundAlpha: 1;
+   spacerColor: primary.spacerColor;
+   spacerAlpha: primary.spacerAlpha;
+   topnavColor: primary.topnavColor;
+   topnavAlpha: 1;
+   topnavShadowColor: primary.topnavShadowColor;
+   topnavShadowAlpha: primary.topnavShadowAlpha;
+   topnavIconColor: primary.topnavIconColor;
+   topnavIconAlpha: primary.topnavIconAlpha;
+   contentColor: primary.contentColor;
+   contentAlpha: primary.contentAlpha;
+   strongColor: primary.strongColor;
+   strongAlpha: primary.strongAlpha;
+   cardColor: primary.cardColor;
+   cardAlpha: primary.cardAlpha;
+   altPopupBackgroundColor: primary.altPopupBackgroundColor;
+   altPopupBackgroundAlpha: primary.altPopupBackgroundAlpha;
+   contentActionColor: primary.contentActionColor;
+   contentActionAlpha: primary.contentActionAlpha;
+   actionColor: primary.actionColor;
+   actionAlpha: primary.actionAlpha;
+   modalWidth: 800px;
+   modalHeight: 800px;
+}

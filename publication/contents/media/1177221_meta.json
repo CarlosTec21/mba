@@ -1,0 +1,39 @@
+{
+  "id" : 1177221,
+  "type" : 5,
+  "src" : "$media$1177221.mp4",
+  "icon" : "$media$1177221/cover.jpg",
+  "label" : "_2018_EGADE Business School Institucion al_H264_ES 2_opti.mp4",
+  "descriptions" : { },
+  "titles" : { },
+  "creationDate" : "2020-05-06 17:54:39",
+  "lastUpdateDate" : "2020-05-06 17:55:00",
+  "beginDate" : "2020-05-06 17:54:39",
+  "version" : 1,
+  "name" : "_2018_egade-business-school-institucion-al_h264_es-2_opti.mp4",
+  "parent" : 1176464,
+  "originalFile" : "1177221.mp4",
+  "originalFileSize" : 9858970,
+  "countryFlags" : [ ],
+  "associatedResolutions" : {
+    "1177221" : "p_1177221"
+  },
+  "resolutions" : {
+    "p_1177221" : {
+      "supported" : [ "jpg" ],
+      "sizes" : [ {
+        "width" : 720,
+        "height" : 406,
+        "box" : false,
+        "extension" : "jpg",
+        "ignoreUpscale" : true
+      } ]
+    }
+  },
+  "tags" : [ ],
+  "published" : true,
+  "bitrate" : 927734,
+  "duration" : 84.92,
+  "resolution" : "1080x608",
+  "status" : "LIVE"
+}

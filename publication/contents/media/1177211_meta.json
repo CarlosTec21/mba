@@ -1,0 +1,39 @@
+{
+  "id" : 1177211,
+  "type" : 5,
+  "src" : "$media$1177211.mp4",
+  "icon" : "$media$1177211/cover.jpg",
+  "label" : "EGADE MBA - opti.mp4",
+  "descriptions" : { },
+  "titles" : { },
+  "creationDate" : "2020-05-06 04:49:47",
+  "lastUpdateDate" : "2020-05-06 04:50:06",
+  "beginDate" : "2020-05-06 04:49:47",
+  "version" : 1,
+  "name" : "egade-mba---opti.mp4",
+  "parent" : 1176464,
+  "originalFile" : "1177211.mp4",
+  "originalFileSize" : 10920262,
+  "countryFlags" : [ ],
+  "associatedResolutions" : {
+    "1177211" : "p_1177211"
+  },
+  "resolutions" : {
+    "p_1177211" : {
+      "supported" : [ "jpg" ],
+      "sizes" : [ {
+        "width" : 720,
+        "height" : 406,
+        "box" : false,
+        "extension" : "jpg",
+        "ignoreUpscale" : true
+      } ]
+    }
+  },
+  "tags" : [ ],
+  "published" : true,
+  "bitrate" : 1362263,
+  "duration" : 64.018,
+  "resolution" : "1080x608",
+  "status" : "LIVE"
+}
